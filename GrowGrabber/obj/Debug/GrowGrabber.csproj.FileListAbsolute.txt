@@ -1,0 +1,3 @@
+C:\Users\admin\Desktop\Reverse Tools\dnSpy-net472\HIRAKO\GrowGrabber\obj\Debug\GrowGrabber.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Reverse Tools\dnSpy-net472\HIRAKO\GrowGrabber\obj\Debug\GrowGrabber.exe.licenses
+C:\Users\admin\Desktop\Reverse Tools\dnSpy-net472\HIRAKO\GrowGrabber\obj\Debug\GrowGrabber.csproj.CoreCompileInputs.cache
